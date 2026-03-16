@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hola yo soy Cristian Duran👋
+**Soy estudiante de Ingenieria Informatica en la Universidad Centroamericana Jose Simeon Cañas** 
+ **Introvertido, apasionado por la tecnologia.**
+ **Me gusta aprender como funcionan las tecnologias que nos rodean** 
 <!--
 **crisduran74/crisduran74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
